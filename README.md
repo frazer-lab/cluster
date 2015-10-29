@@ -1,6 +1,7 @@
 # Frazer Lab Cluster
 [Go to the wiki.](https://github.com/frazer-lab/cluster/wiki/Frazer-Lab-Cluster-User-Guide)
 
+Look at the status of the nodes:
 <pre>
 -bash-4.1$ qhost
 HOSTNAME                ARCH         NCPU NSOC NCOR NTHR  LOAD  MEMTOT  MEMUSE  SWAPTO  SWAPUS
